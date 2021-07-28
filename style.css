@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin-top: 20px;
+    height: 45px;
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+    background: #77216f;
+    color: #fff;
+}
